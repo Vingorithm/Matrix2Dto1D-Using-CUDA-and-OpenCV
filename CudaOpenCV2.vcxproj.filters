@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="soalUTSno1.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="images">
+      <UniqueIdentifier>{71ebe744-ce6a-49f8-a81e-873e7a11bc04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tes">
+      <UniqueIdentifier>{de9af34d-6698-48ec-9a2f-9c7a45cf2263}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Downloads\image1.png">
+      <Filter>images</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\image2.png">
+      <Filter>images</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
